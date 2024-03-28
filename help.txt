@@ -1,0 +1,31 @@
+init
+Initialize all addresses
+Usage : init
+
+write 
+Store desired value at specified address
+Usage : write [address to store] [value to store]
+
+read
+Read stored value at specified address
+Usage : read [address to read]
+
+exit
+Exit the shell
+Usage : exit
+
+fullwrite
+Store desired value in all addresses
+Usage : fullwrite [value to store]
+
+fullread
+Read stored values in all addresses
+Usage : fullread
+
+testapp1
+Execute test1
+Usage : testapp1
+
+testapp2
+Execute test2
+Usage : testapp2
