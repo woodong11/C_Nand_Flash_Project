@@ -1,4 +1,4 @@
-# C_SSD_project
+# C_Nand_Flash_Project
 C를 이용해 SSD의 read, write를 구현하고 shell을 자체 제작해 테스트하는 프로젝트입니다. (SSAFY 수업 프로젝트)
 
 
@@ -23,13 +23,13 @@ mkdir ~/ws
 cd ~/ws
 ```
 ```
-git clone https://github.com/woodong11/C_SSD_project.git
+git clone https://github.com/woodong11/C_Nand_Flash_Project.git
 ```
 <br>
 
 <b> build</b>
 ```
-cd ~/ws/C_SSD_project
+cd ~/ws/C_Nand_Flash_Project
 ```
 ```
 make -j4
