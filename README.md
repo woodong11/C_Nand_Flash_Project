@@ -7,7 +7,7 @@ C를 이용해 SSD의 read, write를 구현하고 shell을 자체 제작해 테�
 <br>SSD에서 controller가 하는 역할을 가상의 C프로그래밍으로 구현하고, NAND Flash는 nand.txt로 대체합니다. <br>
 SSD에서 읽어온 값은 result.txt에 저장합니다. <br>
 Test Shell에서 SSD 동작을 테스트합니다. <br>
-LBA는 4byte, SSD총 용량은 400byte로 가정합니다. <br>
+LBA(논리 블록 주소)는 4byte, SSD총 용량은 400byte로 가정합니다. <br>
 데이터는 32bit unsigned 16진수로 저장됩니다. <br>
 <br>
 <br>
